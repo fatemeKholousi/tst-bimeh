@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --primary-color: #3CBCA5;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url("assets/fonts/IRANYekanXFaNum-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url("assets/fonts/IRANYekanXFaNum-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'thin';
+    src: url("assets/fonts/IRANYekanXFaNum-Thin.ttf");
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url("assets/fonts/IRANYekanXFaNum-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'extraBold';
+    src: url("assets/fonts/IRANYekanXFaNum-ExtraBold.ttf");
+}
